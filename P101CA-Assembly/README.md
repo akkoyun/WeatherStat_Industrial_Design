@@ -1,0 +1,1 @@
+## Meteoroloji istasyonu toprak bağlantı aparatı.

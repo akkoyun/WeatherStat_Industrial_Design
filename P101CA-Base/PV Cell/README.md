@@ -1,0 +1,4 @@
+# Solar Panel.
+
+## Fiziksel Ölçüler
+.....

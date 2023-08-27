@@ -1,2 +1,5 @@
-# WeatherStat_Industrial_Design
-Weather Station Industrial Design Details.
+# Endüstriyel Tasarım
+
+> - Parça kodları güncellenecek.
+> - Tüm tasarımların kasör içleri doldurulacak.
+> - her bir parçanın imaj görüntüsü alınacak.

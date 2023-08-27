@@ -1,0 +1,1 @@
+## Toprak Altı Sıcaklık Sensörü Endüstriyel Tasarım
